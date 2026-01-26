@@ -11,7 +11,7 @@ A simple, computerized system built in C can automate these tasks, providing spe
 
 
 
-Project Objectives
+Project Objectives:
 The primary goal is to develop a robust and user-friendly Bus Reservation System. The key objectives for this project were:
 Implement a complete Bus Reservation System using C.
 Incorporate a secure login authentication for users.
